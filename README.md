@@ -1,5 +1,5 @@
 
-![image](https://raw.githubusercontent.com/OpenKoo/OPENKOO/main/picture/PIC.png)
+![image](https://raw.githubusercontent.com/OpenKoo/Openkoo-Chainlink/main/UI/openkoo.jpg)
 
 ## Project Name
 
@@ -44,11 +44,11 @@ Address
 
 ## Links
 
-Github:https://github.com/OpenKoo
+Github:https://github.com/OpenKoo  
 
-Contracts:https://github.com/OpenKoo/OPENKOO/tree/main/contracts
+Contracts:https://github.com/OpenKoo/OPENKOO/tree/main/contracts  
 
-Pictures:https://github.com/OpenKoo/OPENKOO/tree/main/picture
+UI:https://github.com/OpenKoo/Openkoo-Chainlink/tree/main/UI
 
 
 ## Highlights and Features
@@ -61,8 +61,6 @@ OpenKoo is an all-in-one NFT creation platform which is open and accessible to e
 5. Able to DIY personal or unique rarity parameters. 
 6. Added chainlink oracle function. When erc721r refunds, any token can be returned or exchanged according to the user's needs, not only limited to refund ETH
 
-## UI
-![image](https://raw.githubusercontent.com/OpenKoo/OPENKOO/main/picture/PIC.png)
 
 ## Basic Sample Hardhat Project
 
