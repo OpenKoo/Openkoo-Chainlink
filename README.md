@@ -50,11 +50,6 @@ Contracts:https://github.com/OpenKoo/OPENKOO/tree/main/contracts
 
 Pictures:https://github.com/OpenKoo/OPENKOO/tree/main/picture
 
-Twitter:openkooart  
-
-Discord:OpenKoo#6970  
-
-Telegrm:OpenKoo  
 
 ## Highlights and Features
 
