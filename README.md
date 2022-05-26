@@ -9,9 +9,6 @@ OpenKoo
 
 OpenKoo is an NFT creation platform accessible to everyone.
 
-## Track
-
-NFT,Metaverse and GameFi
 
 ## Deployment information
 
@@ -53,11 +50,11 @@ Contracts:https://github.com/OpenKoo/OPENKOO/tree/main/contracts
 
 Pictures:https://github.com/OpenKoo/OPENKOO/tree/main/picture
 
-Twitter:
+Twitter:openkooart  
 
-Discord:
+Discord:OpenKoo#6970  
 
-Telegrm:
+Telegrm:OpenKoo  
 
 ## Highlights and Features
 
